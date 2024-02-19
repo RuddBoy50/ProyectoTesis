@@ -1,0 +1,5 @@
+Creación de las ramas 
+developmentRoger
+developmentNava
+developmentRuddy
+para trabajar en github con el proyecto
